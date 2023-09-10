@@ -1,1 +1,1 @@
-@@llsites.google.com^$important
+sites.google.com
